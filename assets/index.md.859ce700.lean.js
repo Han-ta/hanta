@@ -1,1 +1,0 @@
-import{_ as z,o as E,c as I,O as A}from"./chunks/framework.3254de84.js";const P=JSON.parse('{"title":"零基础Paper服务端插件开发教程——准备工作","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),v={name:"index.md"},j=A("",12),R=[j];function O(f,n,i,c,e,x){return E(),I("div",null,R)}const S=z(v,[["render",O]]);export{P as __pageData,S as default};
